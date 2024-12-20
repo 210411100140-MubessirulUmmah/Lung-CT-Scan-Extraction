@@ -5,3 +5,9 @@ Pillow
 ultralytics
 supervision
 opencv-python-headless
+
+streamlit
+opencv-python-headless
+numpy
+pandas
+
