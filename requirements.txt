@@ -1,13 +1,7 @@
 streamlit
-opencv-python
+opencv-python-headless
 numpy
 Pillow
 ultralytics
 supervision
-opencv-python-headless
-
-streamlit
-opencv-python-headless
-numpy
 pandas
-
